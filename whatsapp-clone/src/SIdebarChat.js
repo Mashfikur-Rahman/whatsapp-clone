@@ -2,7 +2,7 @@ import { Avatar } from '@material-ui/core';
 import React from 'react';
 import "./SidebarChat.css";
 
-function SIdebarChat() {
+function SidebarChat() {
     return (
         <div className = "sidebarChat">
             <Avatar />
@@ -15,4 +15,4 @@ function SIdebarChat() {
     )
 }
 
-export default SIdebarChat;
+export default SidebarChat;
